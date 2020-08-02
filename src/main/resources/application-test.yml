@@ -1,0 +1,16 @@
+app:
+ name: My App Test
+ description: Welcome to ${app.name}
+
+my:
+  greeting: HelloWorld
+  list:
+   values: One,Two,Three
+   
+db:
+ connection: here test
+ host: 127.0.0.1
+ port: 2400
+ 
+management.endpoints.web.exposure.include: "*"
+spring.cloud.config.uri: http://localhost:8888
