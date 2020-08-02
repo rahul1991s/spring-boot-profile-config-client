@@ -1,2 +1,2 @@
 # spring-boot-profile-config-client
-spring boot - profile - microservice specific config  
+spring boot - active profile - microservice specific config  
