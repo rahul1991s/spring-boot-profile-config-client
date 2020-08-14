@@ -6,7 +6,7 @@
 		<version>2.1.2.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-  <groupId>com.shuchita</groupId>
+  <groupId>com.rahuls</groupId>
   <artifactId>springprofile</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 <properties>
